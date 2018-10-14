@@ -1,2 +1,2 @@
 # esheep
-electric sheep
+Reinforcemen learning platform
